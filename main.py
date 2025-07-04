@@ -1497,7 +1497,7 @@ start_window = tk.Toplevel(app)
 start_window.title("开始页面")
 start_window.geometry("400x200")
 
-start_label1 = tk.Label(start_window, text="欢迎使用由王逸 2022104023开发的应用程序", font=("Arial", 14))
+start_label1 = tk.Label(start_window, text="欢迎使用由我开发的应用程序", font=("Arial", 14))
 start_label1.pack(pady=10)
 
 start_label2 = tk.Label(start_window, text="遥感原理和图像处理期末大作业应用程序", font=("Arial", 12))
