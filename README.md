@@ -35,8 +35,7 @@ There is also a corresponding paper titled "阴影提取和去除方法.pdf." Th
 Other scripts are mostly sub-scripts of "main.py" or initial versions of these sub-scripts. If you are interested in the specific implementation of certain functions, you can check them out, but I do not recommend running them. The actual execution should be done using "main.py," as it is more complete and has been tested for execution.
 其它的脚本基本都是main.py脚本中的子脚本或者这些子脚本的初始版本，如果对于其中具体功能的实现感兴趣，可以点击查看，但是不建议运行，实际运行还是采用main.py，因为它更加完善，且经测试可执行。
 
-I am quite lazy and will not explain each sub-script individually, except for "main.py." From the file names, you should be able to roughly guess their functions, which are based on the theories mentioned in the aforementione[阴影提取和去除方法.pdf](https://github.com/user-attachments/files/21071208/default.pdf)
-d paper.
+I am quite lazy and will not explain each sub-script individually, except for "main.py." From the file names, you should be able to roughly guess their functions, which are based on the theories mentioned in the aforementioned paper.
 我比较懒，就不一一对除了main.py之外的子脚本进行说明了，大家看文件名应该也能大概猜出是干什么的，其具体依据的理论就是上述提到论文中的理论。
 
 [Uploading 阴影提取和去除方法.pdf…]()
