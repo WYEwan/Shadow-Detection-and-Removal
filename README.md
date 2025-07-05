@@ -1,5 +1,8 @@
 # Shadow-Detection-and-Removal阴影识别与去除
 
+# For more detailed information, please refer to the attached PDF file.（Note that both the attached file and the code comments are in Chinese.）
+# 具体的论文参见PDF附件（注意，本附件及代码注释均为中文）
+
 This is a remote sensing image processing program I submitted for a course, aimed at detecting and removing shadows from TIFF files of remote sensing images in densely built-up areas.
 这是我在一个课程中提交的遥感图像处理程序，旨在用于对密集建筑区遥感图像的TIFF文件进行阴影识别和去除
 
@@ -37,6 +40,4 @@ Other scripts are mostly sub-scripts of "main.py" or initial versions of these s
 
 I am quite lazy and will not explain each sub-script individually, except for "main.py." From the file names, you should be able to roughly guess their functions, which are based on the theories mentioned in the aforementioned paper.
 我比较懒，就不一一对除了main.py之外的子脚本进行说明了，大家看文件名应该也能大概猜出是干什么的，其具体依据的理论就是上述提到论文中的理论。
-
-[Uploading 阴影提取和去除方法.pdf…]()
 
